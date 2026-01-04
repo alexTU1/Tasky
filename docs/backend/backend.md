@@ -162,4 +162,6 @@ The following documentation is mostly based on the [The ULTIMATE MERN Stack Comp
      ```bash
      npm run dev
      ```
+  3. To view results go to http://localhost:5050/ in your browser.
+
 
